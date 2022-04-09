@@ -2,7 +2,7 @@
 #### I am Mohamed, Software Engineer - Class of 2023 Eötvös Loránd University 🏫.
 
 [![](https://img.shields.io/badge/Linkedin-Mohamed%20Aharrat-blue)](https://www.linkedin.com/in/mohamed-aharrat-50868a224/)
-[![](https://img.shields.io/badge/Gmail-mohamedaharrat%40gmail.com-green)](mailto:mohamedaharrat@gmail.com)
+[![](https://img.shields.io/badge/Gmail-mohamedaharrat%40gmail.com-green)](mailto:mohamedaharrat1@gmail.com)
 
 ## Skillset
 ```javascript
